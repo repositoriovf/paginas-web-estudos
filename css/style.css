@@ -1,0 +1,26 @@
+body{
+    font: 30px Candara;
+
+}
+.navbar {
+    background-color: #eae7e1;
+}
+
+.quem-somos {
+    background-color: black;
+    color: #eae7e1;
+}
+
+.margin {
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: #ababab;
+}
+
+.bg-footer{
+    background-color: #ababab;
+    padding: 10px;
+}
